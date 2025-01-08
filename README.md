@@ -142,16 +142,41 @@
 ---
 
 <!-- CONTACT OR CONNECT -->
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/valli-meenaa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/vallimeenaav" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- Email -->
+  <a href="mailto:vallimeenaavellaiyan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- Phone (Optionally, can remove or replace with a phone icon badge) -->
+  <a href="tel:+18578320123" target="_blank">
+    <img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+  
+</div>
+
 <p align="center">
-## 🤝 Let's Connect
-   **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/valli-meenaa/)  
-   **GitHub**: [@vallimeenaav](https://github.com/vallimeenaav)  
-   **Email**: [vallimeenaavellaiyan@gmail.com](mailto:vallimeenaavellaiyan@gmail.com)  
-   **Phone**: +1 (857) 832-0123  
-   
-   *“Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee*
+  <em>“Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee</em>
 </p>
+
 ---
+
 
 <!-- FOOTER OR SIGN-OFF (Optional) -->
 <p align="center">
