@@ -7,6 +7,12 @@
 <!-- You can create or place an image banner in your repository:
      e.g., ![Banner](https://github.com/<username>/<repo>/blob/main/banner.png) 
 -->
+<!-- LINKEDIN WIDGET AT THE TOP -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 <h1 align="center">
   Hello, I'm <strong>Valli Meenaa Vellaiyan</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
