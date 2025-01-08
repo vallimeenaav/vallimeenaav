@@ -20,7 +20,7 @@
 
 <p align="center">
    
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/valli-meenaa/" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
