@@ -15,9 +15,7 @@
   <!-- Replace with a direct or permanent Giphy link -->
   <img src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif" width="160" height="160" />
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
+
 </p>
 
 <p align="center">
