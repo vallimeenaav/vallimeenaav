@@ -13,7 +13,7 @@
 </h1>
 
 <p align="center">
-  <em>Data Scientist & Data Engineer • ML Enthusiast • Instructor • Storyteller of Data</em>
+  <em>Data Scientist & Analyst • ML Enthusiast • Instructor • Storyteller of Data</em>
 </p>
 
 <!-- PROFILE VIEWS -->
@@ -26,10 +26,10 @@
 <!-- ABOUT ME SECTION -->
 ## 👩‍💻 About Me
 
-- 🔭 **Currently** pursuing my Master of Science in Data Analytics Engineering (Data Science) at **Northeastern University** (Boston, MA), maintaining a *4.00 GPA*.
+- 🔭 **Recent Graduate** with a Master of Science in Data Analytics Engineering (Data Science) from **Northeastern University** (Boston, MA), with a *4.00 GPA*.
 - 🎓 **Graduated** with a B.Tech in Electronics and Communication (IoT) from Vellore Institute of Technology, India (*GPA 3.65*).
 - 👩‍🏫 Machine Learning **Course Developer & Instructor** for 65+ students, focusing on Python, TensorFlow, and PyTorch.
-- 🏢 **Industry Experience** at Staples (Supply Chain & Robotics) & Data Science Research at Universiti Teknologi PETRONAS.
+- 🏢 **Industry Experience** at Staples (Supply Chain & Robotics) & Data Science Research Work at Universiti Teknologi PETRONAS.
 - 🌱 **Research Enthusiast** with multiple publications on ML-driven traffic prediction, motor fault detection, and more.
 - ⚡ I love building **scalable AI/ML solutions**, orchestrating **MLOps pipelines**, and diving into **big data** sets.
 
