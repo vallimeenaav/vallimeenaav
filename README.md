@@ -26,7 +26,7 @@
 <!-- ABOUT ME SECTION -->
 ## 👩‍💻 About Me
 
-- 🔭 **Recent Graduate** with a Master of Science in Data Analytics Engineering (Data Science) from **Northeastern University** (Boston, MA), with a *4.00 GPA*.
+- 🔭 **Recent Graduate** with a Master of Science in Data Analytics Engineering (Data Science) from **Northeastern University** (Boston, MA), with a *4.00 GPA*. [**Coursework**: Data Mining, Data Management for Analytics, Computation and Visualization for Analytics, Neural Networks and Deep Learning, Statistical Learning, Machine Learning Operations]
 - 🎓 **Graduated** with a B.Tech in Electronics and Communication (IoT) from Vellore Institute of Technology, India (*GPA 3.65*).
 - 👩‍🏫 Machine Learning **Course Developer & Instructor** for 65+ students, focusing on Python, TensorFlow, and PyTorch.
 - 🏢 **Industry Experience** at Staples (Supply Chain & Robotics) & Data Science Research Work at Universiti Teknologi PETRONAS.
@@ -97,10 +97,6 @@
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=vallimeenaav&show_icons=true&theme=radical" height="180px" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallimeenaav&layout=compact&theme=radical" height="180px" />
-</div>
 
 ---
 
