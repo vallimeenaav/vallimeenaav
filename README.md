@@ -7,10 +7,14 @@
 <!-- You can create or place an image banner in your repository:
      e.g., ![Banner](https://github.com/<username>/<repo>/blob/main/banner.png) 
 -->
-[Banner](https://github.com/<username>/<repo>/blob/main/banner.png)
 
 <!-- LINKEDIN WIDGET AT THE TOP (With a fun icon!) -->
 <p align="center">
+
+  <!-- Optional "Coding from Home" or similar graphic -->
+  <!-- Replace this src link with your own hosted image or remove if not needed -->
+  <img src="(https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif?cid=790b7611d4nbl903v52xhl8qunia8dviybecrskwax5i4hft&ep=v1_stickers_search&rid=giphy.gif&ct=s)" width="160" height="160" />
+
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
