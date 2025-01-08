@@ -144,7 +144,7 @@
 <!-- CONTACT OR CONNECT -->
 ## 🤝 Let's Connect
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/valli-meenaa/)  
 - **GitHub**: [@vallimeenaav](https://github.com/vallimeenaav)  
 - **Email**: [vallimeenaavellaiyan@gmail.com](mailto:vallimeenaavellaiyan@gmail.com)  
 - **Phone**: +1 (857) 832-0123  
