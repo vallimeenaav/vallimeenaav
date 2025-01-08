@@ -7,10 +7,12 @@
 <!-- You can create or place an image banner in your repository:
      e.g., ![Banner](https://github.com/<username>/<repo>/blob/main/banner.png) 
 -->
-<!-- LINKEDIN WIDGET AT THE TOP -->
+[Banner](https://github.com/<username>/<repo>/blob/main/banner.png)
+
+<!-- LINKEDIN WIDGET AT THE TOP (With a fun icon!) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
 
@@ -30,15 +32,18 @@
 ---
 
 <!-- ABOUT ME SECTION -->
+ 
+
+
 ## 👩‍💻 About Me
 
-- 🔭 **Recent Graduate** with a Master of Science in Data Analytics Engineering (Data Science) from **Northeastern University** (Boston, MA), with a *4.00 GPA*. [**Coursework**: Data Mining, Data Management for Analytics, Computation and Visualization for Analytics, Neural Networks and Deep Learning, Statistical Learning, Machine Learning Operations]
-- 🎓 **Graduated** with a B.Tech in Electronics and Communication (IoT) from Vellore Institute of Technology, India (*GPA 3.65*).
-- 👩‍🏫 Machine Learning **Course Developer & Instructor** for 65+ students, focusing on Python, TensorFlow, and PyTorch.
-- 🏢 **Industry Experience** at Staples (Supply Chain & Robotics) & Data Science Research Work at Universiti Teknologi PETRONAS.
-- 🌱 **Research Enthusiast** with multiple publications on ML-driven traffic prediction, motor fault detection, and more.
-- ⚡ I love building **scalable AI/ML solutions**, orchestrating **MLOps pipelines**, and diving into **big data** sets.
-
+- 🌎 **Global Mindset**: Born with a curious mind, I'm constantly exploring how data shapes decisions across cultures and industries.  
+- 🔭 **Academia**: Master of Science in Data Analytics Engineering (*Data Science*) at **Northeastern University**, Boston, MA. (4.00 GPA)  
+- 🤖 **Tech Explorer**: I love building scalable AI/ML solutions, weaving together MLOps best practices (Airflow, MLflow, Kubernetes, Docker) for real-world impact.  
+- 🏫 **Instructor & Leader at Heart**: Teaching 65+ students the art of Machine Learning, from neural networks to model optimization, is a passion that keeps me on my toes.  
+- 🔬 **Research Buff**: Whether it’s traffic data prediction or motor-fault analysis, I'm game for any challenge that merges creativity and data-driven innovation.  
+- ☕ **Beyond Data**: Catch me reading about recent trends in ML & AI, delving into novels, or doodling in my free time.
+- ✍︎ **Coursework**: Data Mining, Data Management for Analytics, Computation and Visualization for Analytics, Neural Networks and Deep Learning, Statistical Learning, Machine Learning Operations.
 ---
 
 <!-- EXPERIENCE OR HIGHLIGHTS -->
@@ -68,11 +73,32 @@
 <!-- PROJECTS -->
 ## 🔬 Selected Projects
 
-- **Scalable MLOps Pipeline**: Deployed real-time sentiment analysis on 338M+ Amazon reviews using GCP, Docker, Kubernetes, Airflow, & MLflow, supporting up to 1,000+ predictions/second.
-- **Melanoma Detection**: Achieved **98.8% accuracy** diagnosing melanoma using CNN & DCNN (Inception) on 33K+ dermoscopic images.
-- **NLP-Based Job Market Analysis**: Modeled a Gradient Boosting Classifier to predict salary ranges & hiring trends with **91.84% accuracy** using TF-IDF, tokenization, and hyperparameter tuning.
+### 1) Scalable MLOps Pipeline for Real-Time Amazon Reviews
+- **Data Scale**: Processed a colossal **338M+** Amazon reviews, handling text in multiple languages and varied domain-specific jargon.  
+- **MLOps Architecture**:  
+  - **Google Cloud Platform (GCP)** for virtual machines, container registry, and storage.  
+  - **Docker & Kubernetes** for containerization and orchestration, ensuring zero-downtime updates & easy scalability.  
+  - **Apache Airflow** to schedule and manage complex ETL workflows and model retraining pipelines.  
+  - **MLflow** for experiment tracking, model versioning, and easy rollback if a new model underperformed.  
+- **Pipeline Flow**:
+  1. **Data Ingestion**: Real-time data streams from Amazon’s review endpoints → stored in GCP bucket.  
+  2. **ETL & Preprocessing**: Tokenization, cleaning, language detection, and sentiment labeling in Airflow DAGs.  
+  3. **Modeling**: TensorFlow-based sentiment classifier trained on *massive labeled data*, achieving ~80% accuracy.  
+  4. **Continuous Delivery**: GitHub Actions triggers container rebuilds, automatically deploying new model versions to Kubernetes clusters.  
+  5. **Monitoring & Alerting**: Automatic logs, metrics in Stackdriver, Slack notifications on anomalies.  
+- **Throughput**: Scaled to handle **1,000+ predictions per second**, ensuring near real-time insights for marketing, product, and user experience teams.  
+- **Impact**: Provided instantaneous sentiment insights, aiding product managers in rapid response to customer feedback and iterative product improvements.
+
+### 2) Melanoma Detection: Deep Learning for Accurate Diagnosis
+- Achieved **98.8% accuracy** on 33K+ dermoscopic images using CNN & DCNN (Inception).
+- Deployed data preprocessing (normalization & augmentation) for robust feature extraction, cutting overfitting drastically.
+
+### 3) NLP-Based Job Market Analysis
+- Modeled a Gradient Boosting Classifier (91.84% accuracy) to predict salaries & hiring trends.
+- Employed TF-IDF, tokenization, and advanced hyperparameter tuning to reveal in-demand data roles.
 
 ---
+
 
 <!-- TECH STACK -->
 ## ⚙️ Tech & Tools
