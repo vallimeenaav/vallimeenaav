@@ -30,7 +30,7 @@
 </h1>
 
 <p align="center">
-  <em>Data Scientist & Analyst • ML Enthusiast • Instructor • Storyteller of Data</em>
+  <em>Data Scientist & Analyst • ML Enthusiast • Course Developer • Storyteller of Data</em>
 </p>
 
 <!-- PROFILE VIEWS -->
